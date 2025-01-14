@@ -1,0 +1,29 @@
+[
+    [
+        {
+          "marca": "Corona",
+          "precio": 1.5,
+          "descripcion": "Cerveza ligera y refrescante con un toque de lima, ideal para disfrutar en climas cálidos."
+        },
+        {
+          "marca": "Heineken",
+          "precio": 1.8,
+          "descripcion": "Cerveza premium de origen holandés con un sabor balanceado y un característico aroma a malta."
+        },
+        {
+          "marca": "Guinness",
+          "precio": 2.2,
+          "descripcion": "Cerveza negra irlandesa con notas tostadas, cuerpo cremoso y un sabor profundo y distintivo."
+        },
+        {
+          "marca": "Budweiser",
+          "precio": 1.4,
+          "descripcion": "Cerveza americana conocida por su suavidad y facilidad para beber, con ligeros toques de malta."
+        },
+        {
+          "marca": "Stella Artois",
+          "precio": 2.0,
+          "descripcion": "Cerveza belga premium con un sabor elegante, ligeramente amargo y bien equilibrado."
+        }
+      ]
+]
