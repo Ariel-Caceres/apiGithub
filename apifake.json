@@ -3,27 +3,40 @@
         {
           "marca": "Corona",
           "precio": 1.5,
-          "descripcion": "Cerveza ligera y refrescante con un toque de lima, ideal para disfrutar en climas cálidos."
+          "descripcion": "Cerveza ligera y refrescante con un toque de lima, ideal para disfrutar en climas cálidos.",
+          "img":"https://raw.githubusercontent.com/axiacore/frontend-test/refs/heads/master/img/camba.png"
         },
         {
           "marca": "Heineken",
           "precio": 1.8,
-          "descripcion": "Cerveza premium de origen holandés con un sabor balanceado y un característico aroma a malta."
+          "descripcion": "Cerveza premium de origen holandés con un sabor balanceado y un característico aroma a malta.",
+          "img":"https://raw.githubusercontent.com/axiacore/frontend-test/refs/heads/master/img/cascade.png"
+
         },
         {
           "marca": "Guinness",
           "precio": 2.2,
-          "descripcion": "Cerveza negra irlandesa con notas tostadas, cuerpo cremoso y un sabor profundo y distintivo."
+          "descripcion": "Cerveza negra irlandesa con notas tostadas, cuerpo cremoso y un sabor profundo y distintivo.",
+          "img":"https://raw.githubusercontent.com/axiacore/frontend-test/refs/heads/master/img/mira.png"
+
+          
         },
         {
           "marca": "Budweiser",
           "precio": 1.4,
-          "descripcion": "Cerveza americana conocida por su suavidad y facilidad para beber, con ligeros toques de malta."
+          "descripcion": "Cerveza americana conocida por su suavidad y facilidad para beber, con ligeros toques de malta.",
+          "img":"https://raw.githubusercontent.com/axiacore/frontend-test/refs/heads/master/img/cassels.png"
+          
         },
         {
           "marca": "Stella Artois",
           "precio": 2.0,
-          "descripcion": "Cerveza belga premium con un sabor elegante, ligeramente amargo y bien equilibrado."
+          "descripcion": "Cerveza belga premium con un sabor elegante, ligeramente amargo y bien equilibrado.",
+          "img":"https://raw.githubusercontent.com/axiacore/frontend-test/refs/heads/master/img/topa.png"
+            
+        },
+        {
+
         }
       ]
 ]
